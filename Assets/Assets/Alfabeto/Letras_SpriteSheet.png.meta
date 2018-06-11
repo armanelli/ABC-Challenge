@@ -1,0 +1,908 @@
+fileFormatVersion: 2
+guid: fe61024f26ef3c645bb51d77bbf892fe
+timeCreated: 1528675977
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Letras_SpriteSheet_0
+    21300002: Letras_SpriteSheet_1
+    21300004: Letras_SpriteSheet_2
+    21300006: Letras_SpriteSheet_3
+    21300008: Letras_SpriteSheet_4
+    21300010: Letras_SpriteSheet_5
+    21300012: Letras_SpriteSheet_6
+    21300014: Letras_SpriteSheet_7
+    21300016: Letras_SpriteSheet_8
+    21300018: Letras_SpriteSheet_9
+    21300020: Letras_SpriteSheet_10
+    21300022: Letras_SpriteSheet_11
+    21300024: Letras_SpriteSheet_12
+    21300026: Letras_SpriteSheet_13
+    21300028: Letras_SpriteSheet_14
+    21300030: Letras_SpriteSheet_15
+    21300032: Letras_SpriteSheet_16
+    21300034: Letras_SpriteSheet_17
+    21300036: Letras_SpriteSheet_18
+    21300038: Letras_SpriteSheet_19
+    21300040: Letras_SpriteSheet_20
+    21300042: Letras_SpriteSheet_21
+    21300044: Letras_SpriteSheet_22
+    21300046: Letras_SpriteSheet_23
+    21300048: Letras_SpriteSheet_24
+    21300050: Letras_SpriteSheet_25
+    21300052: Letras_SpriteSheet_26
+    21300054: Letras_SpriteSheet_27
+    21300056: Letras_SpriteSheet_28
+    21300058: Letras_SpriteSheet_29
+    21300060: Letras_SpriteSheet_30
+    21300062: Letras_SpriteSheet_31
+    21300064: Letras_SpriteSheet_32
+    21300066: Letras_SpriteSheet_33
+    21300068: Letras_SpriteSheet_34
+    21300070: Letras_SpriteSheet_35
+    21300072: Letras_SpriteSheet_36
+    21300074: Letras_SpriteSheet_37
+    21300076: Letras_SpriteSheet_38
+    21300078: Letras_SpriteSheet_39
+    21300080: Letras_SpriteSheet_40
+    21300082: Letras_SpriteSheet_41
+    21300084: Letras_SpriteSheet_42
+    21300086: Letras_SpriteSheet_43
+    21300088: Letras_SpriteSheet_44
+    21300090: Letras_SpriteSheet_45
+    21300092: Letras_SpriteSheet_46
+    21300094: Letras_SpriteSheet_47
+    21300096: Letras_SpriteSheet_48
+    21300098: Letras_SpriteSheet_49
+    21300100: Letras_SpriteSheet_50
+    21300102: Letras_SpriteSheet_51
+    21300104: Letras_SpriteSheet_52
+    21300106: Letras_SpriteSheet_53
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1225
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1225
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1226
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1226
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1225
+        width: 65
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1225
+        width: 65
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1075
+        width: 63
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1075
+        width: 63
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1075
+        width: 63
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1075
+        width: 63
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1075
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1075
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 925
+        width: 61
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 925
+        width: 61
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 925
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 925
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 925
+        width: 28
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 925
+        width: 28
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 775
+        width: 60
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 775
+        width: 60
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 775
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 775
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 775
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 775
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 625
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 625
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 625
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 625
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 624
+        width: 62
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 624
+        width: 62
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 475
+        width: 63
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 475
+        width: 63
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 475
+        width: 65
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 475
+        width: 65
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 475
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 475
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 326
+        width: 58
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 326
+        width: 58
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 325
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 325
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 326
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 326
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 174
+        width: 66
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 174
+        width: 66
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 175
+        width: 78
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 175
+        width: 78
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 175
+        width: 70
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 175
+        width: 70
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 25
+        width: 65
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 25
+        width: 65
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 25
+        width: 61
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 25
+        width: 61
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 25
+        width: 65
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Letras_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 25
+        width: 65
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
