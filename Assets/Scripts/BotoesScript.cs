@@ -1,18 +1,27 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BotoesScript : MonoBehaviour {
+public class BotoesScript : MonoBehaviour
+{
+    public GameScript _gameScript;
 
-	public string Letra;
+    public char Letra;
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+    void Start()
+    {
+        Letra = Convert.ToChar(this.gameObject.name);
+    }
+
+    void Update()
+    {
+
+    }
+
+    void OnMouseDown()
+    {
+        _gameScript.OuvirLetra(Letra);
+
+    }
 }
