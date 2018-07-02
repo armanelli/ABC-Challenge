@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class SlotRespostaController : MonoBehaviour
 {
+    public GameObject slotResposta;
+    GameObject slotRespostaClone;
 
     // Use this for initialization
     void Start()

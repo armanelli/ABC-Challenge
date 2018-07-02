@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class BotoesScript : MonoBehaviour
 {
-    public GameScript _gameScript;
+    public GameController _gameController;
 
     public char Letra;
 
@@ -21,7 +21,6 @@ public class BotoesScript : MonoBehaviour
 
     void OnMouseDown()
     {
-        _gameScript.OuvirLetra(Letra);
-
+        _gameController.Responder(Letra);
     }
 }
